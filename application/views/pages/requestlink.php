@@ -35,7 +35,7 @@
 <!-- Jumbotron -->
 <div id="start-copy" class="jumbotron jb-nomargin section-texture-white ">
   <div class="container">
-    <h1>The Fickle 500</h1>
+    <h1>The Fickle 500_sample</h1>
     <p><span class="">Welcome</span> to the most exclusive underground club in Bangalore.</p>
 
     <p>
