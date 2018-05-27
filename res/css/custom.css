@@ -1,0 +1,143 @@
+
+
+html,body {height:100%;width:100%;}
+.jumbotron {background-color:inherit;}
+.container-full-bg {width:100%;height:100%;max-width:100%;background-position:center;background-size:cover;}
+.container-full-bg .container, .container-full-bg .container .jumbotron {height:100%;width:100%;}
+
+.full-bg-hero{
+	/*background-image:url('../img/high-res/car-blue.jpg');*/
+	background-color:black;
+	/*background-image:url('../img/high-res/car-black.jpg2');*/
+	background-image:url('../img/high-res/party-lights.jpg');
+	background-attachment: scroll;
+
+}
+
+/*.well{
+   background-color: rgba(8, 8, 8, 0.6);
+   border-color: rgb(8, 8, 8);
+}*/
+
+.vertical-align-top {
+    display: flex;
+    align-items: top;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.jumbotron.jb-nomargin{
+	margin-bottom: 0px;
+}
+
+p span.emp{
+	color:#a82002;
+}
+
+.test-debug{
+	display:none;
+}
+
+.bg-img-car-blue{
+	background-image: url("../img/high-res/car-blue.jpg");
+}
+
+.bg-img-car-black{
+	background-image: url("../img/high-res/car-black.jpg");
+}
+
+.jb-hero{
+	background-color: black;
+	/*background-image: url("../img/pattern/black_lozenge.png");*/
+	/*background-image: url("../img/high-res/car-blue.jpg");*/
+	min-height: 800px;
+	background-size: auto 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-family: 'Roboto', sans-serif;
+	color:white;
+}
+
+/**
+* red - #a82002
+* green - #02a879
+* blue - #3f02a8
+* chrome -#a87302
+**/
+
+/* Lush Cosmetics Color Scheme
+  black #000000
+  ink #062f4f
+  posy #813772
+  embers #b82601*/
+
+.text-white{
+	color:#efefef;
+}
+
+.text-black{
+	color:#000000;
+}
+
+.section-highres-carblack{
+   background-image: url("../img/high-res/car-black.jpg");
+   background-size: auto 100%;
+   background-repeat: no-repeat;
+}
+
+.section-bg-wine-glass{
+   background-image: url("../img/pattern/wine-glass.png");
+}
+
+.section-texture-white{
+	background-image: url("../img/pattern/kindajean.png");
+}
+
+.section-texture-lozenge{
+	background-image: url("../img/pattern/black_lozenge.png");
+}
+
+.section-texture-triangle{
+	background-image: url("../img/pattern/dark-triangles.png");
+}
+
+.error-text{
+	color:#990a14;
+}
+
+.section-black{
+	background-color: #000000;
+}
+
+.section-ink{
+	background-color: #062f4f;
+}
+
+.section-posy{
+	background-color: #813772;
+}
+
+.section-embers{
+	background-color: #a85352;
+}
+
+.section-green{
+	background-color: #a5a852;
+}
+
+.section-blue{
+	background-color: #5552a8;
+}
+
+.section-chrome{
+	background-color: #ba5f04;
+}
+

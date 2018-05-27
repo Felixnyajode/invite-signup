@@ -1,0 +1,13 @@
+SMfacebook
+SMInstagram
+SMtwitter
+SMSnap
+
+SocialMedia ->dummy
+Profession -> dummy
+
+WorkDetails
+LinkedinURL
+ProfessionalRank
+BiggestAchievement
+
