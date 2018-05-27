@@ -8,7 +8,7 @@
       <div class="jumbotron">
         <div style="height:60%" class="row vertical-align text-white">
           <div style=""class="col-md-6 col-md-offset-3">
-            <h1 style="background-color:rgba(8,8,8,0.8);font-size: 6.5rem;" class="text-center text-uppercase">The Fickle 500</h1>
+            <h1 style="background-color:rgba(8,8,8,0.8);font-size: 6.5rem;" class="text-center text-uppercase">1The Fickle 500</h1>
             <div style="background-color:rgba(8,8,8,0.6);" class="text-center" style="width:100%;color:#898989;top:-15px;position:relative"><span class="text-uppercase">the most exclusive underground club in Bangalore</span></div>   
           </div>
         </div>
@@ -35,7 +35,7 @@
 <!-- Jumbotron -->
 <div id="start-copy" class="jumbotron jb-nomargin section-texture-white ">
   <div class="container">
-    <h1>The Fickle 500_sample</h1>
+    <h1>The Fickle 500</h1>
     <p><span class="">Welcome</span> to the most exclusive underground club in Bangalore.</p>
 
     <p>
